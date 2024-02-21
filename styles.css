@@ -1,0 +1,19 @@
+h1,
+h2,
+.recipe-link {
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.description-text {
+    font-size: 20px;
+}
+ul {
+    font-size: 20px;
+}
+ol {
+    font-size: 20px;
+}
