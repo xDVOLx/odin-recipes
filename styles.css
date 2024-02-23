@@ -3,17 +3,36 @@ h2,
 .recipe-link {
     text-align: center;
 }
+
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    max-width: 100%;
+    height: auto;
 }
+
 .description-text {
     font-size: 20px;
 }
+
 ul {
     font-size: 20px;
 }
+
 ol {
     font-size: 20px;
+}
+
+.textbox {
+    background-color: peachpuff;
+    border: 4px solid brown;
+}
+
+.textbox.index {
+    padding-bottom: 15px;
+}
+
+hr {
+    border: 1px solid black;
 }
